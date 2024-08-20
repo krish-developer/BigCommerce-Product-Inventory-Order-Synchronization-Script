@@ -18,15 +18,17 @@ This Node.js script provides a comprehensive solution for managing orders, produ
 ### 1. Order Import
 
 - **CSV Import**: Import orders directly from a CSV file into your BigCommerce store.
-- **Third-Party API Integration**: Fetch and import orders from an external API into your BigCommerce store.
+- **Third-Party API Integration**: Fetch and import orders from an external Third Parties into your BigCommerce store.
 
 ### 2. Product Sync
 
 - **CSV Import**: Sync products to your BigCommerce store using data from a CSV file.
+- **Third-Party API Integration**: Sync products from an external Third Parties into your BigCommerce store.
 
 ### 3. Inventory Sync
 
 - **CSV Import**: Update inventory levels for products in your BigCommerce store using data from a CSV file.
+- **Third-Party API Integration**: F Update inventory levels for products from an external Third Parties into your BigCommerce store.
 
 ## 🛠️ Technologies Used
 

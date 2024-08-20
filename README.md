@@ -2,7 +2,7 @@
   <a href="https://www.bigcommerce.com/">
     <img src="https://storage.googleapis.com/s.mkswft.com/RmlsZTphZDI0ZGJmZC0zNDExLTRjZTctOGJiZC01NDJkYzgyOTg1ZmQ=/bc-logo-dark.svg" alt="BigCommerce Logo" width="180" height="80">
   </a>
-  <h3 align="center">BigCommerce Order & Product Synchronization Script</h3>
+  <h3 align="center">BigCommerce Order & Product or Product's Inventory Synchronization Script</h3>
   <p align="center">
     A powerful Node.js script designed to streamline order imports, product synchronization, and inventory management for BigCommerce stores using data from CSV files and third-party APIs.
     console.log("inventory:", inventory)
